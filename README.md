@@ -34,3 +34,14 @@ pip install -r requirements.txt
 }
 ```
 
+## Usage
+```sh
+python bot.py
+```
+
+## Preview
+- Here's a demonstration of the bot in action:
+ 
+![preview](https://github.com/user-attachments/assets/870c4481-c464-49e6-8d62-68569c57165d)
+
+

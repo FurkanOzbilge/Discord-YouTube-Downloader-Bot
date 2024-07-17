@@ -1,4 +1,4 @@
-# Discord YouTube Downloader Bot
+# Discord YouTube Downloader Bot 🎬 🎥 🔴 ▶
 
 ![Project Logo](images/logo.png)
 
@@ -17,7 +17,7 @@ This project is a Discord bot that saves YouTube videos to Mega cloud storage.
 - pytubefix
 - mega.py
 
-## Installation
+## 📌Installation
 
 First, install the required dependencies:
 
@@ -25,7 +25,7 @@ First, install the required dependencies:
 pip install -r requirements.txt
 ```
 
-## Configuration
+## 📌Configuration
 ```json
 {
     "discord_token": "YOUR_DISCORD_TOKEN",
@@ -34,14 +34,17 @@ pip install -r requirements.txt
 }
 ```
 
-## Usage
+## 📌Usage
 ```sh
 python bot.py
 ```
 
-## Preview
+## 🎥Preview
 - Here's a demonstration of the bot in action:
  
 ![preview](https://github.com/user-attachments/assets/870c4481-c464-49e6-8d62-68569c57165d)
+
+# 🙏Thanks!
+Please ⭐️ this repository if this project helped you!
 
 

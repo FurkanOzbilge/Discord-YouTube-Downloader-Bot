@@ -23,3 +23,12 @@ First, install the required dependencies:
 
 ```sh
 pip install -r requirements.txt
+
+## Configuration
+```json
+{
+    "discord_token": "YOUR_DISCORD_TOKEN",
+    "mega_mail": "YOUR_MEGA_EMAIL",
+    "mega_password": "YOUR_MEGA_PASSWORD"
+}
+
